@@ -8,6 +8,8 @@ background: #FFFFFF;
     
 }
 
+
+
 .header {
     position: fixed;
     right: 0px;
@@ -41,7 +43,7 @@ justify-content: space-around;
     position: relative;
     min-height: 84px;
     text-align: center;
-    margin-left: 5vw;
+    margin-left: 5px;
    
 }
 
@@ -211,7 +213,7 @@ margin-bottom: 50px;
 
 
 
-.team__text {
+.team__text  {
 font-family: Roboto;
 font-style: normal;
 font-weight: 500;
@@ -281,6 +283,3 @@ color: #FFFFFF;
 text-align: center;
 padding-top: 50px;
 }
-
-
-
